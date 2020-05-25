@@ -17,4 +17,13 @@
 |87|Earth Brown| matt |X|
 |88|Ochre Brown| matt |X|
 |89|Beige| matt |X|
-
+|-|Corsair||
+|09|Anthracite|matt| |
+|15|Yellow|matt||
+|56|Blue|matt||
+|65|Bronze Green|matt||
+|77|Dusty Grey|matt||
+|91|Iron|metallic||
+|99|Aluminium|metallic||
+|330|Fiery Red|silk matt||
+|360|Fern Green|silk matt||
