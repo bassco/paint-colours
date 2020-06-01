@@ -18,6 +18,7 @@
 |05|White|matt|X|
 |09|Anthracite|matt|X|
 |15|Yellow|matt|X|
+|39|Dark Green|matt|X|
 |40|Black Green| matt|X|
 |42|Yellowish Olive|matt|X|
 |45|Light Olive|matt|X|
