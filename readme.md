@@ -18,7 +18,10 @@
 |42|Yellowish Olive|matt|X|
 |43|Medium Grey|matt|X|
 |45|Light Olive|matt|X|
+|49|Light Blue|matt|X|
+|50|Light Blue|Solid Gloss|X|
 |52|Blue|Gloss|X|
+|55|Light Green|Solid Matt|X|
 |56|Blue|matt|X|
 |57|Grey|matt|X|
 |65|Bronze Green|matt|X|
